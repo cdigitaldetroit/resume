@@ -1,30 +1,32 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+#theme_skin: orange # blue turquoise green berry orange ceramic 
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Christopher Snitchler
+    tagline: Integrated Systems Administrator
+    avatar: profile7.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: chris@n30.us
+    phone: 248.210.0994
+    timezone: America/Detroit Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: csnitchler
+    xing:
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,230 +38,173 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Camping
           link:
 
-        - item: Snowboarding
+        - item: Hiking
           link:
 
-        - item: Cooking
+        - item: Electronics
+          link:
+
+        - item: Home Lab
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+
+      Experienced Integrated Systems Administrator specializing in the dynamic realm of Digital Out of Home Entertainment. With a strong technical background and a passion for creating immersive experiences, I am dedicated to ensuring seamless operation and optimization of integrated systems.
+
+      My expertise lies in designing, implementing, and maintaining complex technological ecosystems that enhance customer engagement and elevate brand experiences. Skilled in system troubleshooting, performance enhancement, and project management, I thrive in fast-paced environments where innovation and adaptability are key.
+      
+      Let's connect and explore how I can contribute to pushing the boundaries of interactive entertainment.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diploma
+        university: Waterford Mott High School
+        time: 1994 - 1998
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Integrated Systems Administrator
+        time: 2021 - Current
+        company: Lucky Strike Entertainment | Encino, CA (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+
+            Lucky Strike is a premier experiential entertainment brand. With 14 nationwide locations, 7 featuring industry-leading arcades.
+
+            Directly reporting to the Vice President of IT, I held responsibility for the entire Customer Data Environment (CDE) while concurrently managing Point of Sale operations. Collaborating closely with the Vice President of Games & Entertainment, I also played a pivotal role in shaping the vision and optimizing operations of the Amusements Department.
+
+
+            Key Achievements:
+            - Developed and implemented robust disaster recovery policies.
+            - Successfully virtualized the MICROS system, aligning with the disaster recovery policy.
+            - Created, optimized, and regularly updated system automation scripts, enhancing efficiency and streamlining operations in an integrated systems environment.
+            - Utilized ConnectWise Automate for effective patch management strategies.
+            - Designed and executed monitoring and alert systems for all components within the Customer Data Environment (CDE), ensuring proactive issue identification and resolution.
+            - Orchestrated a comprehensive hardware refresh for all on-premise CDE systems.
+            - Led the transition from FreedomPay's FPPOS to FCCD offering.
+            - Engineered a custom MICROS clock-in script to ensure compliance with California Meal and Break Laws.
+            - Collaborated with the Vice President of Marketing to design and implement a rewards and loyalty program.
+            - Contributed to the training and development of the National Arcade Manager.
+            - Conducted research and evaluations of new POS system providers.
+            - Maintained strong business relationships with POS equipment and software vendors.
+
+      - role: Point of Sale Manager
+        time: 2018 - 2020
+        company: Lucky Strike Entertainment | Sherman Oaks, CA (Remote)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+
+            Managed and supported the MICROS Res 3700 systems in all 19 venues nationwide, resulting in approximately $115 million in total annual revenue. Achieved a 99% in-house resolution rate for MICROS support due to highly customized venue configurations.
+
+            - Expertly programmed and customized SIM scripts for property-level configurations, enabling seamless revenue center and service type setups.
+            - Led the staging, configuration, deployment, patching, and system administration of all MICROS servers and terminals, ensuring consistent performance across venues.
+            - Installed, configured, and maintained software and interfaces critical to operations.
+            - Provided hardware and software support for all venues, troubleshooting and resolving issues promptly.
+            - Designed equipment site plans for new venues, overseeing hardware deployment and system configuration/programming.
+            - Conducted comprehensive training sessions for venue management teams on system operations and procedures.
+            - Managed and supported bowling systems (Qubica Conqueror, Steltronics Focus) and the company's cashless debit card system (EMBED).
+            - Addressed level 1 support requests for various software products, including Salesforce, Tripleseat, MyMicros, custom event booking, and event deposit payment platforms.
+            - Contributed to the development and deployment of a BI reporting and analytics platform, enhancing data-driven decision-making processes.
+            - Maintained, programmed, and repaired aging A/V systems in all venues before individual venue upgrades, ensuring uninterrupted entertainment experiences.
+            - Served as a crucial liaison between the company and primary A/V vendor, facilitating effective communication and timely solutions.
+
+      - role: Game Room Manager
+        time: 2017 - 2018
+        company: Revel and Roll | Ann Arbor, MI
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+            - Managed daily operations of an FEC's arcade, overseeing maintenance and repair of 100+ arcade games and attractions down to the component level.
+            - Developed and implemented a preventive maintenance program for all arcade equipment, ensuring optimal functionality and guest experience.
+            - Took charge of all venue IT needs, including programming the Micros 3700 system with custom SIM scripting.
+                      
+
+      - role: Games & Redemption Manager 
+        time: 2015 - 2015
+        company: FTW / Lucky Strike | Chicago, IL
+        details: |
+
+            - Managed daily operations of a high-volume arcade and redemption store in a busy downtown location.
+            - Oversaw maintenance and repair of 150+ arcade games and attractions, performing component-level troubleshooting and repair.
+            - Developed and executed a preventive maintenance program for all arcade equipment.
+            - Served as a company-wide system administrator for the EMBED debit card system.
+            - Provided site-level tech support for various software systems, including EMBED, Micros, Reserve, Qubica, Steltronics, and related Micros interfaces.
+            - Maintained the venue's complex A/V and control system, consulting with corporate clients on event A/V needs.
+            - Trained and developed both Game Technician and Redemption departments, managing inventory and parts ordering.
+
+      - role: Technical Manager
+        time: 2008 - 2015
+        company: Power Play / Lucky Strike | Novi, MI
+        details: |
+
+            - Managed arcade and redemption operations in a 70,000 sq ft multi-concept entertainment facility.
+            - Oversaw maintenance and repair of 80+ arcade games and attractions, including component-level repairs.
+            - Implemented a comprehensive preventive maintenance schedule for arcade and A/V equipment.
+            - Maintained complex A/V and control systems, including those of the main venue and 2 nightclubs.
+            - Provided site-level tech support for software systems such as EMBED, Micros, Reserve, Qubica, Steltronics, and related Micros interfaces, handling both hardware troubleshooting and repair.
+            - Managed facilities maintenance, ensuring vendor compliance with maintenance contracts.
+            - Assisted in nightclubs' remodel and installation of the venue's security camera system.
+            - Played a key role in the arcade game debit card system changeover from SystemWorks to EMBED.
+            - Developed training programs for Game Technicians and Redemption departments, managing inventory and ordering.
 
 certifications:
-      title: Certifications
+      title: Certifications &amp; Certificates
       list:
-        - name: CV Builder
+        - name: Google IT Support Professional
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Google
+          credentialid: 92R5VKHF92AG
+          credentialurl: https://www.coursera.org/account/accomplishments/specialization/92R5VKHF92AG
+          credentialname: Google IT Support Professional
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Those who earn the Google IT Support Professional Certificate have
+            completed five-courses, developed by Google, that include hands-on,
+            practice-based assessments and are designed to prepare them for
+            entry-level roles in IT support. They are competent in foundational
+            skills, including troubleshooting and customer service, networking,
+            operating systems, system administration, and security
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - name: Certified Level 1 Duo Administrator
+          start: 2023
+          end: 2025
+          organization: Duo Security
+          credentialid: 56t77wmeufy5
+          credentialurl: https://verify.skilljar.com/c/56t77wmeufy5
+          credentialname: Certified Level 1 Duo Administrator
+          details: |
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        - name: Automate Administrator
+          start: 2023
+          end: 
+          organization: ConnectWise
+          credentialid: 476762
+          credentialurl: https://university.connectwise.com/University/Training/Certificate/CertificateMajor.aspx?CredentialId=476762
+          credentialname: Automate Administrator
+          details: |
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        - name: Automate Service Technician
+          start: 2023
+          end: 
+          organization: ConnectWise
+          credentialid: 476765
+          credentialurl: https://university.connectwise.com/University/Training/Certificate/CertificateMajor.aspx?CredentialId=476765
+          credentialname: Automate Service Technician
+          details: |
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+        - name: AV Technologist 
+          start: 2020
+          end: 
+          organization: AVIXA
+          credentialid: 
+          credentialurl: 
+          credentialname: AV Technologist
+          details: |
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
