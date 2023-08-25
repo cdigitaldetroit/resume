@@ -61,7 +61,7 @@ education:
     info:
       - degree: Diploma
         university: Waterford Mott High School
-        time: 1994 - 1998
+        time:
         details: |
 experiences:
     title: Work Experience
