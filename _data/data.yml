@@ -134,12 +134,6 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/specialization/92R5VKHF92AG
           credentialname: Google IT Support Professional
           details: |
-            Those who earn the Google IT Support Professional Certificate have
-            completed five-courses, developed by Google, that include hands-on,
-            practice-based assessments and are designed to prepare them for
-            entry-level roles in IT support. They are competent in foundational
-            skills, including troubleshooting and customer service, networking,
-            operating systems, system administration, and security
 
         - name: Certified Level 1 Duo Administrator
           start: 2023
