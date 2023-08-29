@@ -59,7 +59,7 @@ experiences:
             - Expanded the implementation of ConnectWise Automate, automating patch management tasks and decreasing patch deployment time by 60%, consequently enhancing system stability and security.
             - Orchestrated the implementation of monitoring and alert systems across the Customer Data Environment (CDE), resulting in a 30% reduction in overall system downtime and enabling timely resolution of critical issues for enhanced operational efficiency.
             - Launched a seamless hardware refresh project, successfully migrating all on-premise CDE systems to state-of-the-art infrastructure; resulting in a 40% reduction in maintenance costs and a 30% increase in system reliability.
-            - Championed the smooth migration of FreedomPay's payment system from FPPOS to FCCD, resulting in a 30% reduction in transaction processing errors and a 20% increase in customer satisfaction ratings.
+            - Championed the smooth migration of FreedomPay's payment system from FPPOS to FCCD, resulting in a 40% reduction in transaction processing errors and a 20% increase in customer satisfaction ratings.
             - Engineered a custom MICROS clock-in script to ensure compliance with California Meal and Break Laws.
             - Collaborated with the Vice President of Marketing to design and implement a rewards and loyalty program.
             - Co-ordinated the training and development of the National Arcade Manager.
@@ -84,6 +84,11 @@ experiences:
             - Influenced the development and deployment of a BI reporting and analytics platform, enhancing data-driven decision-making processes.
             - Maintained, programmed, and repaired aging A/V systems in all venues before individual venue upgrades, ensuring uninterrupted entertainment experiences.
             - Served as a crucial liaison between the company and primary A/V vendor, facilitating effective communication and timely solutions.
+
+      - role: Game Room Manager
+        time: 2017 - 2018
+        company: Revel and Roll | Ann Arbor, MI
+        details: |
 
       - role: Games & Redemption Manager 
         time: 2015 - 2015
