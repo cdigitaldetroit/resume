@@ -35,10 +35,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-
-      Experienced Integrated Systems Administrator specializing in the realm of Digital Out of Home Entertainment. With a strong technical background and a passion for creating immersive experiences, I am dedicated to ensuring seamless operation and optimization of integrated systems.
-
-      My expertise lies in designing, implementing, and maintaining complex technological ecosystems that enhance customer engagement and elevate brand experiences. Skilled in system troubleshooting, performance enhancement, and project management, I thrive in fast-paced environments where innovation is key.
+      Experienced Integrated Systems Administrator with a focus on Digital Out of Home Entertainment. Drawing from a solid technical foundation and a genuine drive for crafting immersive experiences, with a commitment to guaranteeing smooth operations and fine-tuned performance of integrated systems.
+      
+      Collaborated closely with the Vice President of Games & Entertainment to develop and execute a strategic vision that generated $100 million in additional revenue over the life the Amusements Department.
 experiences:
     title: Work Experience
     info:
@@ -46,40 +45,29 @@ experiences:
         time: 2021 - Current
         company: Lucky Strike Entertainment | Encino, CA (Remote)
         details: |
-
             Lucky Strike is a premier experiential entertainment brand. With 14 nationwide locations, 7 featuring industry-leading arcades.
-
-            Directly reporting to the Vice President of IT, I held responsibility for the entire Customer Data Environment (CDE) while concurrently managing Point of Sale operations. Collaborating closely with the Vice President of Games & Entertainment, I also played a pivotal role in shaping the vision and optimizing operations of the Amusements Department.
-
-
-            Key Achievements:
-            - Spearheaded the development and implementation of rigorous disaster recovery strategies, resulting in a 30% increase in system uptime and a 60% reduction in data recovery time.
+            
+            - Directed the complete management of the Customer Data Environment (CDE) while concurrently leading Point of Sale operations, resulting in improved data accuracy, enhanced customer insights, and a 15% increase in sales revenue.
+            - Spearheaded the development and implementation of rigorous disaster recovery strategies, resulting in a 30% increase in system uptime, and a 60% reduction in data recovery time.
             - Led the successful virtualization of the MICROS system, aligning with disaster recovery policy; increased system reliability by 60% and minimized potential revenue loss during downtime.
             - Engineered a streamlined and integrated systems environment by creating, enhancing, and regularly maintaining system automation scripts, yielding a 30% increase in operational efficiency.
             - Expanded the implementation of ConnectWise Automate, automating patch management tasks and decreasing patch deployment time by 60%, consequently enhancing system stability and security.
             - Orchestrated the implementation of monitoring and alert systems across the Customer Data Environment (CDE), resulting in a 30% reduction in overall system downtime and enabling timely resolution of critical issues for enhanced operational efficiency.
-            - Launched a seamless hardware refresh project, successfully migrating all on-premise CDE systems to state-of-the-art infrastructure; resulting in a 40% reduction in maintenance costs and a 30% increase in system reliability.
+            - Launched a seamless hardware refresh project, migrating all on-premise CDE systems to state-of-the-art infrastructure; reducing maintenance costs by 40%.
             - Championed the smooth migration of FreedomPay's payment system from FPPOS to FCCD, resulting in a 40% reduction in transaction processing errors and a 20% increase in customer satisfaction ratings.
-            - Collaborated with the Vice President of Marketing to design and implement a rewards and loyalty program.
-            - Conducted research and evaluations of new POS system providers.
-            - Nurtured robust business relationships with POS equipment and software vendors.
 
       - role: Point of Sale Manager
-        time: 2017 - 2020
+        time: 2017 - 2021
         company: Lucky Strike Entertainment | Sherman Oaks, CA (Remote)
         details: |
-
-            Managed and supported the MICROS Res 3700 systems in all 19 venues nationwide, resulting in approximately $115 million in total annual revenue. Achieved a 99% in-house resolution rate for MICROS support due to highly customized venue configurations.
-
-            - Expertly programmed and customized SIM scripts for property-level configurations, enabling seamless revenue center and service type setups.
+            - Implemented and maintained the MICROS RES 3700 systems in all 19 venues nationwide, resulting in a significant contribution of approximately $115 million in total annual revenue.
+            - Achieved an outstanding 99% in-house resolution rate for MICROS support by expertly configuring and optimizing venue setups, ensuring uninterrupted service and exceptional customer experience.
+            - Programmed and customized SIM scripts, optimizing property-level configurations for seamless revenue center and service type setups; reducing manual setup time by 50%.
             - Led the staging, configuration, deployment, patching, and system administration of all MICROS servers and terminals, ensuring consistent performance across venues.
-            - Installed, configured, and maintained software and interfaces critical to operations.
-            - Facilitated hardware and software support for all venues, troubleshooting and resolving issues promptly.
+            - Delivered comprehensive hardware and software support for 15+ venues, swiftly troubleshooting and resolving technical issues, resulting in a reduction in downtime and ensuring seamless operations.
             - Designed equipment site plans for new venues, overseeing hardware deployment and system configuration/programming.
-            - Conducted comprehensive training sessions for venue management teams on system operations and procedures.
-            - Managed and supported bowling systems (Qubica Conqueror, Steltronics Focus) and the company's cashless debit card system (EMBED).
-            - Addressed level 1 support requests for various software products, including Salesforce, Tripleseat, MyMicros, custom event booking, and event deposit payment platforms.
-            - Influenced the development and deployment of a BI reporting and analytics platform, enhancing data-driven decision-making processes.
+            - Addressed level 1 support requests for companies’ software products, including Salesforce, Tripleseat, MyMicros, custom event booking, and event deposit payment platforms.
+            - Pioneered the design and implementation of a comprehensive BI reporting and analytics platform, equipping stakeholders with actionable insights; optimized marketing spend by 15% and achieved a 30% improvement in operational efficiency.
             - Maintained, programmed, and repaired aging A/V systems in all venues before individual venue upgrades, ensuring uninterrupted entertainment experiences.
             - Served as a crucial liaison between the company and primary A/V vendor, facilitating effective communication and timely solutions.
 
